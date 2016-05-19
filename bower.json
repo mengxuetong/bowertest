@@ -1,0 +1,13 @@
+{
+  "name": "bower_test",
+  "homepage": "https://github.com/mengxuetong/bowertest",
+  "authors": [
+    "mengxt"
+  ],
+  "description": "bower_test",
+  "main": "",
+  "keywords": [
+    "bower_test"
+  ],
+  "license": "MIT"
+}
